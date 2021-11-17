@@ -1,0 +1,58 @@
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\bin\Debug\WebServer.exe.config
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\bin\Debug\WebServer.exe
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\bin\Debug\WebServer.pdb
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\obj\Debug\WebServer.exe
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\WebServer\obj\Debug\WebServer.pdb
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\bin\Debug\WebServer.exe.config
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\bin\Debug\WebServer.exe
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\bin\Debug\WebServer.pdb
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\obj\Debug\WebServer.exe
+D:\DATA\Stef\etml-web-server\code\WebServer\WebServer\obj\Debug\WebServer.pdb
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe.config
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.pdb
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.exe
+E:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.pdb
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.exe
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.pdb
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe.config
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe
+F:\ETML\CFC\Pratique\Projets\P_Réseau DEV\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.pdb
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe.config
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.pdb
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.exe
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.pdb
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pn93lny.ETMLNET\Desktop\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CopyComplete
+F:\CFC\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe.config
+F:\CFC\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe
+F:\CFC\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.pdb
+F:\CFC\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.dll
+F:\CFC\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.xml
+F:\CFC\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+F:\CFC\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+F:\CFC\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CopyComplete
+F:\CFC\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.exe
+F:\CFC\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.pdb
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe.config
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.exe
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\bin\Debug\WebServer.pdb
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.dll
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\bin\Debug\Newtonsoft.Json.xml
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.csproj.CopyComplete
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.exe
+E:\CFC\PROJET RESEAU\etml-web-server\code\webServer\WebServer\obj\Debug\WebServer.pdb

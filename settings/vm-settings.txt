@@ -1,0 +1,13 @@
+Linux
+User : root-user
+Password : root-user
+
+Mettre en admin = taper "su" et le mot de passe est "root"
+
+Windows Serveur
+User : Admin
+Password : root-user1
+
+Windows
+User : root
+Password : root

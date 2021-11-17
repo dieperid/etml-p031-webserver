@@ -1,0 +1,18 @@
+/**
+* ETML
+* Auteur      : Alexis Rojas
+* Date        : 01.09.2021
+* Description : Feuille de style pour le site du serveur
+**/
+h1 {
+  text-align: center;
+}
+p {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
